@@ -1,10 +1,6 @@
 # Loan Default Dashboard
 
 
-### Live Dashboard Link
-
-[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjlhYTRlYjgtNTBkZi00NzM3LWI1MWUtMWFkOWQxMTI1YzUwIiwidCI6IjEzOGE5ZGI3LWVmNjItNDZkOC1iMTRiLTI4MWM1NWM1N2QxNCJ9)
-
 ### Dashboard Overview
 This Power BI dashboard analyzes loan default behavior to help identify high-risk and low-risk borrowers using demographic, income, employment, and credit metrics.
 
